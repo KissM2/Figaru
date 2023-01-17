@@ -1,0 +1,60 @@
+body{
+    background-color:#FFCCAA ;
+    font-size: 14pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+a{
+    color:#A04000;
+}
+#voros{
+    float: left;
+    width: 150pt;
+    margin-right: 20pt;
+    margin-left: 20pt;
+    margin-top: 5pt;
+    margin-bottom: 5pt;
+}
+h1{
+    color: #A04000;
+}
+#sor{
+    text-align: justify;
+    font-weight: bold;
+}
+#figaro{
+    float: right;
+    width: 195pt;
+    margin-right: 20pt;
+    margin-left: 20pt;
+    margin-top: 5pt;
+    margin-bottom: 5pt;
+
+}
+table{
+    width: 100%;
+}
+
+table td {
+    width: 33%;
+}
+
+#csel{
+    text-align: justify;
+}
+#egy{
+    text-align: left;
+
+}
+#ketto{
+    text-align: center;
+}
+#harom{
+    text-align: right;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+p{
+    margin: auto;
+}
